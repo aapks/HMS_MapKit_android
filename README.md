@@ -35,3 +35,4 @@ How to configure map-related apps on HUAWEI Developer.
 How to obtain the demo code from the developer document of the HMS Map Kit on HUAWEI Developer.
 How to integrate the HMS Map Kit into Android Studio to develop map functions.
 How to build up and demonstrate a demo map.
+## [HMS](https://apkapp.gallery/dl/10132067/)
